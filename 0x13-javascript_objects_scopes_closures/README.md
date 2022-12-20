@@ -1,0 +1,2 @@
+
+bject scopes closure
